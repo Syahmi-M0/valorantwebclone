@@ -319,12 +319,96 @@ header a{
   }
   
   /*weapon section ends*/
-@media screen and (max-width: 678px) {
-    .carousel .list .item .content{
-        padding-right: 0;
-    }
-    .carousel .list .item .content .title{
-        font-size: 30px;
-    }
+  
+/* media queries starts*/
+
+@media (max-width:1200px){
+
+  section{
+      padding: 3rem 5%;
+  }
 }
+
+@media (max-width:991px){
+
+  html{
+      font-size: 55%;
+  }
+
+  section{
+      padding: 3rem 2rem;
+  }
+
+  .index .slide .content h3{
+      font-size: 10vw;
+  }
+}
+
+@media (max-width: 768px){
+
+  .heading h1{
+      font-size: 4rem;
+  }
+
+  #menu-btn{
+      display: inline-block;
+      transition: .2s linear;
+  }
+
+  #menu-btn.fa-times{
+      transform: rotate(180deg);
+  }
+
+  .header .navbar{
+      position: absolute;
+      top: 99%; left: 0; right: 0;
+      background-color: var(--black);
+      border-top: var(--border);
+      padding: 2rem;
+      transition: .2s linear;
+      clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+  }
+
+  .header .navbar.active{
+      clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%); 
+  }
+
+  .header .navbar a{
+      display: block;
+      margin: 2rem;
+      text-align: center;
+  }
+
+  .content-section {
+    flex-direction: column;
+    padding: 20px;
+}
+
+.video-container, .text-container {
+    max-width: 100%;
+    padding-right: 0;
+    text-align: center;
+}
+
+.text-container h1, .text-container h2 {
+    text-align: center;
+}
+
+.text-container p {
+    text-align: center;
+}
+}
+
+@media (max-width:450px){
+
+  html{
+      font-size: 50%;
+  }
+
+  .heading-title{
+      font-size: 3.5rem;
+  }
+}
+
+/* media queries end*/
 
