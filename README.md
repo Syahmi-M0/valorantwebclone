@@ -10,10 +10,10 @@ Check out the live version of the site: [Epic Gaming Website Live](https://syahm
 
 ## 🎯 **Features**
 
-- 🕹️ **Game Hub:** Centralized platform for all your favorite games.
-- 🌟 **Player Profiles:** Create and customize your own gamer identity.
-- 🎥 **Stream Integration:** Watch live streams and stay updated on gaming events.
-- 🏆 **Leaderboard:** Compete against others and climb the ranks.
+- 🕹️ **Attractive HomePage:** Centralized platform for Valorant games, news, character and maps.
+- 🌟 **Character Introduction:** Choose your own favaourite character in Valorant updated to the lates one in server.
+- 🎥 **Map Layout:** Watch video on every single maps exist in the Valorant.
+- 🏆 **Weapon Page:** All weapon introduction from the latest update.
 - 📱 **Responsive Design:** Fully optimized for mobile, tablet, and desktop.
 
 ## 🎨 **Screenshots**
@@ -25,9 +25,7 @@ Here’s a sneak peek of our awesome UI:
 
 ## ⚙️ **Installation & Setup**
 
-Clone the repository and install the dependencies to get started.
+1. Install the repositories file and open it in your VScode.
+2. Right-click on any of HTML files and open it with live server.
+3. It will directly give you Localhost link on the console of your VScode terminal.
 
-```bash
-git clone https://github.com/yourusername/epic-gaming-website.git
-cd epic-gaming-website
-npm install
