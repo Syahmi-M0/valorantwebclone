@@ -6,7 +6,7 @@ _Valorant Web Clone. This project exist just because I want to explore animation
 
 ## 🚀 **Live Demo**
 
-Check out the live version of the site: [Epic Gaming Website Live](https://yourprojectlink.com)
+Check out the live version of the site: [Epic Gaming Website Live](https://syahmi-m0.github.io/valorantwebclone/)
 
 ## 🎯 **Features**
 
