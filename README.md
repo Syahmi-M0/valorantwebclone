@@ -1,4 +1,4 @@
-# 🎮 **Riot Gaming Website** 🎮
+# 🎮 **Riot Gaming Clone Website** 🎮
 
 _Valorant Web Clone. This project exist just because I want to explore animation in HTML, CSS and JavaScript. It also show you the best experience in gaming website that you had never seen!_
 
